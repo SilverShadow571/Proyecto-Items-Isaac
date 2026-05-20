@@ -9,7 +9,7 @@ Los objetos en Repentance se agrupan en varias categorías con características 
 - **Objetos pasivos**: se activan automáticamente al recogerlos y suelen modificar estadísticas, daño, velocidad, salud y efectos de lágrimas.
 - **Objetos activos**: se pueden usar manualmente con una tecla de acción y tienen tiempos de recarga o consumibles limitados.
 - **Trinkets**: proporcionan efectos menores y tienen una sola carga. Su poder es más pequeño, pero pueden combinarse con otros objetos.
-- ![Carta 1](./Isaac%20Items/assets/Cards%20(Ground).png)![Runa 1](./Isaac%20Items/assets/Runes%201%20(Ground).png)**Cartas y runas**: se consumen al usarse y generan efectos inmediatos en la habitación actual o en Isaac.
+- **<img src="./Isaac Items/assets/Cards 1 (Ground).png" style="pointer-events: none;">Cartas y <img src="./Isaac Items/assets/Runes 1 (Ground).png" style="pointer-events: none;">runas**: se consumen al usarse y generan efectos inmediatos en la habitación actual o en Isaac.
 - **Píldoras y gotas**: ofrecen efectos aleatorios o conocidos al tomarlas, como cambios de estadísticas, teletransportación o curación.
 - **Bombas, llaves y monedas**: recursos consumibles que permiten explorar habitaciones, abrir cofres y pagar ítems en tiendas o arcanas.
 - **Corazones y contenedores de salud**: representan la vida de Isaac y aparecen en formas de corazones rojos, corazones negros, corazones de alma, corazones espirituales y corazones de piedra.
