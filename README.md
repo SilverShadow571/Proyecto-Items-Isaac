@@ -24,7 +24,7 @@ Los objetos en Repentance se agrupan en varias categorías con características 
 
 ### Ejemplos de objetos notables
 
-- ![Brimstone](./Isaac%20Items/assets/descarga.gif) **Brimstone**: convierte las lágrimas en un rayo cargado continuo con daño alto.
+- **Brimstone**: convierte las lágrimas en un rayo cargado continuo con daño alto.
 - **Sacred Heart**: aumenta el daño, otorga lágrimas curvadas y una mejora significativa en disparo.
 - **Polyphemus**: incrementa mucho el daño a costa de una tasa de disparo más lenta.
 - **Dead Cat**: da nueve corazones extra pero reduce la salud a solo medias unidades de alma.
