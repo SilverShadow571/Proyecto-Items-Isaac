@@ -24,11 +24,11 @@ Los objetos en Repentance se agrupan en varias categorías con características 
 
 ### Ejemplos de objetos notables
 
-- **Brimstone**: convierte las lágrimas en un rayo cargado continuo con daño alto.
-- **Sacred Heart**: aumenta el daño, otorga lágrimas curvadas y una mejora significativa en disparo.
-- **Polyphemus**: incrementa mucho el daño a costa de una tasa de disparo más lenta.
-- **Dead Cat**: da nueve corazones extra pero reduce la salud a solo medias unidades de alma.
-- **Tammy's Head**: dispara lágrimas en todos los ángulos alrededor de Isaac.
+- ![Brimstone](./Isaac%20Items/assets/Brimstone.png)**Brimstone**: convierte las lágrimas en un rayo cargado continuo con daño alto.
+- ![Sacred Heart](./Isaac%20Items/assets/Sacred%20Heart.png)**Sacred Heart**: aumenta el daño, otorga lágrimas curvadas y una mejora significativa en disparo.
+- ![Polyphemus](./Isaac%20Items/assets/Polyphemus.png)**Polyphemus**: incrementa mucho el daño a costa de una tasa de disparo más lenta.
+- ![Cricket's Head](./Isaac%20Items/assets/Cricket's%20Head.png)**Cricket's Head**: aumenta el daño de las lágrimas y mejora la probabilidad de efecto crítico para disparos más poderosos.
+- ![Ipecac](./Isaac%20Items/assets/Ipecac.png)**Ipecac**: convierte las lágrimas en proyectiles explosivos que hacen daño en área, aunque reducen la velocidad de disparo.
 
 ## Uso del proyecto
 
