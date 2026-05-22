@@ -1,4 +1,25 @@
+# --- Carpetas principales de compilación y visualización ---
 .vs/
 [Bb]in/
 [Oo]bj/
 *.user
+
+# --- Archivos de configuración local del usuario ---
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- Archivos temporales y de diagnóstico ---
+*.log
+*.tmp
+*.crash
+*.stackdump
+
+# --- Paquetes de librerías (NuGet) ---
+packages/
+*.nuget.props
+*.nuget.targets
+
+# --- Reportes de pruebas y cobertura de código ---
+TestResults/
+*.sequenced
