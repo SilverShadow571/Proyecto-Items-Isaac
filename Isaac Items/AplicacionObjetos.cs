@@ -22,5 +22,15 @@ namespace Isaac_Items
             this.Hide();
             forminicio.Show();
         }
+
+        private void AplicacionObjetos_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (e.CloseReason == CloseReason.UserClosing)
+            {
+                e.Cancel = true;
+                this.Hide();
+                forminicio.Show();
+            }
+        }
     }
 }

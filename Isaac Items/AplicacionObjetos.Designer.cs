@@ -30,7 +30,9 @@
         {
             DatosObjetos = new DataGridView();
             BtnSalir = new Button();
+            pictureBox1 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)DatosObjetos).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // DatosObjetos
@@ -51,16 +53,27 @@
             BtnSalir.UseVisualStyleBackColor = true;
             BtnSalir.Click += BtnSalir_Click;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Location = new Point(542, 95);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(119, 119);
+            pictureBox1.TabIndex = 2;
+            pictureBox1.TabStop = false;
+            // 
             // AplicacionObjetos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(BtnSalir);
             Controls.Add(DatosObjetos);
             Name = "AplicacionObjetos";
             Text = "Aplicacion";
+            FormClosing += AplicacionObjetos_FormClosing;
             ((System.ComponentModel.ISupportInitialize)DatosObjetos).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -68,5 +81,6 @@
 
         private DataGridView DatosObjetos;
         private Button BtnSalir;
+        private PictureBox pictureBox1;
     }
 }
